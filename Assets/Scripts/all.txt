@@ -1,0 +1,4 @@
+marche|move_fw
+recule|move_bw
+saute|jump
+bonjour|say
