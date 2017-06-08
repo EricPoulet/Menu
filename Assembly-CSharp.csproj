@@ -52,8 +52,12 @@
      <Compile Include="Assets\Scripts\TestNinja.cs" />
      <Compile Include="Assets\Scripts\TransitionLevel.cs" />
      <Compile Include="Assets\Scripts\instructions.cs" />
+     <Compile Include="Assets\Sprites\UnderwaterFantasy\Scripts\Done_BGScroller.cs" />
+     <Compile Include="Assets\Sprites\UnderwaterFantasy\Scripts\Perspective2DSortMode.cs" />
+     <Compile Include="Assets\backwards.cs" />
      <Compile Include="Assets\clouds.cs" />
      <Compile Include="Assets\scroll.cs" />
+     <Compile Include="Assets\scroll2.cs" />
      <None Include="Assets\Data\all.txt" />
      <None Include="Assets\Scripts\all.txt" />
      <None Include="Assets\Data\commandes.txt" />
