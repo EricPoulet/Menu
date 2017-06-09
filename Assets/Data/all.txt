@@ -1,4 +1,4 @@
-marche|move_fw
-recule|move_bw
+teleporte_avant|move_fw
+teleporte_arriere|move_bw
 saute|jump
-bonjour|say
+parle|say

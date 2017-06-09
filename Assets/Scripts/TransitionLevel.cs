@@ -16,8 +16,18 @@ public class TransitionLevel : MonoBehaviour {
 		 
 	}﻿
 
-	void OnMouseClick() {
-		Application.LoadLevel("scene");
+	public void lvl1() {
+		Application.LoadLevel("Lvl1");
 		}
+
+    public void lvl2()
+    {
+        Application.LoadLevel("Lvl2");
+    }
+
+    public void lvl3()
+    {
+        Application.LoadLevel("Lvl3");
+    }
 
 }

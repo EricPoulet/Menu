@@ -1,1 +1,1 @@
-marcher();
+saute();teleporte_avant(20);

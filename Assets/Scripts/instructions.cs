@@ -62,7 +62,7 @@ public class instructions : MonoBehaviour {
 			if (s [0] == line [0]) {
 				string[] commands = line.Split ('|');
 				if (s == commands [0]) {
-                    if (s == "bonjour")
+                    if (s == "parle")
                         say(p);
                     else
                     {
